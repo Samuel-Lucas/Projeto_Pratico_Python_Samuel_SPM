@@ -19,8 +19,12 @@ body {
     padding: 30px;
 }
 
+.form-group label {
+    font-size: 18px;
+}
+
 .form-group input {
-    width: 75px;
+    width: 80px;
 }
 
 input[type=number]::-webkit-inner-spin-button { 
